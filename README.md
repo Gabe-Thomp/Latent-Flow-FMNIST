@@ -1,0 +1,2 @@
+# Latent Flow FMNIST
+ This was a small project that I did for a physics-informed neural networks class at NCSU. This main, final results are shown in the jupyter notebook. NOTE: This and much of the code is from the paper Flow Factorized Representation Learning. The aim of this project was to replicate part of the paper with a similar dataset to get a feel for how much finaggling it would take to get it to run ourselves.
